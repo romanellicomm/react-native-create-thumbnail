@@ -1,4 +1,4 @@
-package com.reactlibrary;
+package com.reactLibrary.createThumbnail;
 
 import java.util.Arrays;
 import java.util.Collections;
